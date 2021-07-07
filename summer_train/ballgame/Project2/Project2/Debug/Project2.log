@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(52): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(59): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(60): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(68): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(69): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(118): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(124): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(125): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(131): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(218): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(219): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\c_practice\summer_train\ballgame\project2\project2\main.cpp(352): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> D:\c_practice\summer_train\ballgame\Project2\Debug\Project2.exe

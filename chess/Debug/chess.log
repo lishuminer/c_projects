@@ -1,0 +1,4 @@
+﻿  chess.cpp
+d:\c_practice\summer_train\chess#\chess\chess\chess.cpp(7): warning C4101: “chessboard”: 未引用的局部变量
+d:\c_practice\summer_train\chess#\chess\chess\chess.cpp(24): warning C4326: “main”的返回类型应为“int”而非“void”
+  chess.vcxproj -> D:\c_practice\summer_train\chess#\chess\Debug\chess.exe
